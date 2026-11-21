@@ -1,16 +1,21 @@
 ## Hi there 👋
 
 <!--
-**Hariz-19z/Hariz-19z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🎓 3rd-year B.Tech CSE (Data Science) student at Manipal University Jaipur.  
+🤖 Interested in Machine Learning, AI and building practical, data-driven solutions.  
+🚀 Currently learning Machine Learning, exploring AI research, and building projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Tools
+- **Languages:** Python, R
+- **Data Analysis:** NumPy, Pandas, Matplotlib, Seaborn
+- **Machine Learning:** Scikit-learn
+- **Tools:** Git, GitHub, VS Code, Jupyter Notebook
+- **Areas of Interest:** Machine Learning, Deep Learning, AI, Data Science
+
+### 📌 Currently
+- 📚 Learning Machine Learning & its fundamentals
+- 🔨 Building ML and data-driven projects
+- 🔍 Exploring AI/ML internships and research opportunities
+
+
