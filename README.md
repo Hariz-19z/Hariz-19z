@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 
 🎓 3rd-year B.Tech CSE (Data Science) student at Manipal University Jaipur.  
 🤖 Interested in Machine Learning, AI and building practical, data-driven solutions.  
